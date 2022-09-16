@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jackgarn
+- 👀 I’m interested in improving my coding abilities
+- 🌱 I’m currently learning the basics
